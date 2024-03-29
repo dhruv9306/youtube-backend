@@ -1,1 +1,1 @@
-export const DB_NAME= "onlideos";
+export const DB_NAME= "onlideos"
