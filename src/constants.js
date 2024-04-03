@@ -1,1 +1,1 @@
-export const DB_NAME= "cluster0";
+export const DB_NAME= 'videogs'
